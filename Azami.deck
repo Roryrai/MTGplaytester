@@ -1,0 +1,76 @@
+Commander;Azami, Lady of Scrolls;2UUU;Legendary Creature;Human Wizard;0;2;Tap an untapped Wizard you control: Draw a card.
+1;Aphetto Alchemist;1U;Creature;Human Wizard;1;2;T: Untap target artifact or creature.\ Morph U
+1;Arcanis the Omnipotent;3UUU;Legendary Creature;Wizard;3;4;T: Draw three cards.\ 2UU: Return Arcanis to its owner's hand.
+1;Archaeomancer;2UU;Creature;Human Wizard;1;2;When Archaeomancer enters the battlefield, return an instant or sorcery card from your graveyard to your hand.
+1;Deadeye Navigator;4UU;Creature;Spirit;5;5;Soulbond\ As long as Deadeye Navigator is paired with another creature, both creatures have "1U: Exile this creature, then return it to the battlefield under its owner's control."
+1;Docent of Perfection;3UU;Creature;Insect Horror;5;4;Flying\ Whenever you cast an instant or sorcery spell, put a 1/1 blue Human Wizard creature token onto the battlefield. Then if you control three or more Wizards, transform Docent of Perfection.;TRANSFORM;Final Iteration
+1;Elite Arcanist;3U;Creature;Human Wizard;1;1;When Elite Arcanist enters the battlefield, you may exile an instant card from your hand.\ X, T: Copy the exiled card. You may cast the copy without paying its mana cost. X is the converted mana cost of the exiled card.
+1;Fatesticher;3U;Creature;Zombie Wizard;1;2;T: You may tap or untap another target permanent.\ Unearth U
+1;Glen Elendra Archmage;3U;Creature;Faerie Wizard;2;2;Persist\ U, Sacrifice Glen Elendra Archmage: Counter target noncreature spell.
+1;Laboratory Maniac;2U;Creature;Human Wizard;2;2;If you would draw a card when your library has no cards in it, you win the game instead.
+1;Magus of the Future;2UUU;Creature;Human Wizard;2;3;Play with the top card of your library revealed.\ You may play the top card of your library.
+1;Palinchron;5UU;Creature;Illusion;4;5;When Palinchron enters the battlefield, untap up to 7 lands.\ 2UU: Return Palinchron to its owner's hand.
+1;Patron Wizard;UUU;Creature;Human Wizard;2;2;Tap an untapped wizard you control: Counter target spell unless its controller pays 1.
+1;Rayne, Academy Chancellor;2U;Legendary Creature;Human Wizard;1;1;Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card, and if Rayne, Academy Chancellor is enchanted, you may draw another card.
+1;Sigil Tracer;1UU;Creature;Merfolk Wizard;2;2;1U, Tap two untapped Wizards you control: Copy target instant or sorcery spell. You may choose new targets for the copy.
+1;Snapcaster Mage;1U;Creature;Human Wizard;2;1;Flash\ When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+1;Stonybrook Banneret;1U;Creature;Merfolk Wizard;1;1;Islandwalk\ Merfolk and Wizard spells you cast cost 1 less to case.
+1;Teferi, Mage of Zhalfir;2UUU;Legendary Creature;Human Wizard;3;4;Flash\ Creature cards you own that aren't on the battlefield have flash.\ Each opponent can cast spells only at any time he or she could cast a sorcery.
+1;Trinket Mage;2U;Creature;Human Wizard;2;2;When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+1;Ulamog, the Infinite Gyre;10;Legendary Creature;Eldrazi;10;10;Ulamog is indestructible.\ When you cast ulamog, destroy target permanent.\ Annihilator 4
+1;Vedalken AEthermage;1U;Creature;Vedalken Wizard;1;2;Flash\ When Vedalken AEthermage enters the battlefield, return target Sliver to its owner's hand.\ Wizardcycling 3
+1;Vendilion Clique;1UU;Legendary Creature;Faerie Wizard;3;1;Flash, flying\ When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.
+1;Venser, Shaper Savant;2UU;Legendary Creature;Human Wizard;2;2;Flash\ When Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.
+1;Voidmage Prodigy;UU;Creature;Human Wizard;2;1;UU, Sacrifice a Wizard: Counter target spell.\ Morph U
+1;Bribery;3UU;Sorcery;;;;Search target player's library for a creature card and put that card into play under your control. That player shuffles his or her library.
+1;Ponder;U;Sorcery;;;;Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\ Draw a card.
+1;Preordain;U;Sorcery;;;;Scry 2\ Draw a card.
+1;Temporal Mastery;5UU;Sorcery;;;;Take an extra turn after this one. Exile Temporal Mastery.\ Miracle 1U
+1;Time Warp;3UU;Sorcery;;;;Take an extra turn after this one.
+1;Tunnel Vision;5U;Sorcery;;;;Name a card. Target player reveals cards from the top of his or her library until the named card is revealed. If it is, that player puts the rest of the revealed cards into his or her graveyard and puts the named card on top of his or her library. Otherwise, the player shuffles his or her library.
+1;Blue Sun's Zenith;XUUU;Instant;;;;Target player draws X card. Shuffle Blue Sun's Zenith into its owner's library.
+1;Capsize;1UU;Instant;;;;Return target permanent to its owner's hand.\ Buyback 3
+1;Counterspell;UU;Instant;;;;Counter target spell.
+1;Cryptic Command;1UUU;Instant;;;;Choose two:\ - Counter target spell.\ - Return target creature to its owner's hand.\ - Tap all creatures your opponents control.\ - Draw a card.
+1;Cyclonic Rift;1U;Instant;;;;Overload 6U\ Return target nonland permanent you don't control to its owner's hand.
+1;Dissipate;1UU;Instant;;;;Counter target spell. If that spell is countered in this way, exile it.
+1;Foil;2UU;Instant;;;;You may discard an Island and another card instead of paying Foil's mana cost.\ Counter target spell.
+1;Force of Will;3UU;Instant;;;;You may pay 1 life and exile a blue card from your hand instead of paying Force of Will's mana cost.\ Counter target spell.
+1;Hinder;1UU;Instant;;;;Counter target spell. It it's countered this way, put that card on the top or bottom of its owner's library instead of that player's graveyard.
+1;Mystical Tutor;U;Instant;;;;Search your library for an instant or sorcery card and reveal it. Shuffle your library and put that card on top.
+1;Negate;1U;Instant;;;;Counter target noncreature spell.
+1;Pact of Negation;0;Instant;;;;Counter target spell. At the beginning of your next upkeep, you lose the game unless you pay 3UU.
+1;Pongify;U;Instant;;;;Destroy target creature. Its controller puts a 3/3 green Ape creature token onto the battlefield.
+1;Rapid Hybridization;U;Instant;;;;Destroy target creature. Its controller puts a 3/3 green Frog Lizard creature token onto the battlefield.
+1;Reality Shift;1U;Instant;;;;Exile target creature. Its controller manifests the top card of his or her library.
+1;Rewind;2UU;Instant;;;;Counter target spell.\ Untap up to four lands.
+1;Time Stop;4UU;Instant;;;;End the turn.
+1;Turnabout;2UU;Instant;;;;Tap or untap all artifacts, creatures, or lands target player controls.
+1;Unsubstantiate;1U;Instant;;;;Return target spell or creature to its owner's hand.
+1;Crucible of Worlds;3;Artifact;;;;You may play land cards from your graveyard.
+1;Extraplanar Lens;3;Artifact;;;;Imprint - When Extraplanar lens enters the battlefield, you may exile target land you control. The exiled card is impreinted on this artifact.\ Whenever a land with the same name as the imprinted card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.
+1;Gilded Lotus;5;Artifact;;;;T: Add three mana of any one color to your mana pool.
+1;Illusionist's Bracers;2;Artifact;Equipment;;;Whenever an activated ability of equipped creature is activated, copy that ability. You may choose new targets for the copy.\ Equip 3
+1;Isochron Scepter;2;Artifact;;;;Imprint - When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand. The exiled card is imprinted on this card.\ 2, T: Copy the exiled card. You may cast the copy without paying its mana cost.
+1;Mana Vault;1;Artifact;;;;Mana Vault doesn't untap during your untap step.\ During your upkeep, you may pay 4. If you do, untap Mana Vault.\ At the beginning of your draw step, if mana vault it tapped, it deals 1 damage to you\ T: Add 3 to your mana pool.
+1;Scroll Rack;2;Artifact;;;;1, T: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.
+1;Sensei's Divining Top;1;Artifact;;;;1: Look at the top 3 cards of your library, then put them back in any order.\ T: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+1;Sol Ring;1;Artifact;;;;T: Add 2 to your mana pool.
+1;Vedalken Shackles;3;Artifact;;;;You  may choose not to untap Vedalken Shackles during your untap step.\ 2, T: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.
+1;Leyline of Anticipation;2UU;Enchantment;;;;If Leyline of Anticipation is in your opening hand, you may begin the game with it on the battlefield.\ You may cast spells as though they had flash.
+1;Mind Over Matter;2UUUU;Enchantment;;;;Discard a card: Tap or untap target artifact, creature, or land.
+1;Rhystic Study;2U;Enchantment;;;;Whenever an opponent casts a spell, you may draw a card unless that player pays 1.
+1;Tezzeret the Seeker;3UU;Planeswalker;Tezzeret;4;;+1: Untap up to two target artifacts.\ -X: Search your library for an artifact card with convertec mana cost X or less and put it onto the battlefield. Then shuffle your library.\ -5: Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.
+1;Flooded Strand;;Land;;;;T, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.
+1;Minamo, School at Water's Edge;;Legendary Land;;;;T: Add U to your mana pool.\ U, T: Untap target legendary permanent.
+1;Misty Rainforest;;Land;;;;T, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.
+1;Mouth of Ronom;;Snow Land;;;;T: Add (S) to your mana pool.\ 4(S), T, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature.
+1;Mutavault;;Land;;;;T: Add 1 to your mana pool.\ 1: Mutavault becomes a 2/2 colorless creature with all creature types until end of turn.
+1;Nykthos, Shrine to Nyx;;Legendary Land;;;;T: Add 1 to your mana pool.\ 2, T: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color.
+1;Polluted Delta;;Land;;;;T, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.
+1;Reliquary Tower;;Land;;;;You have no maximum hand size.\ T: Add 1 to your mana pool.
+1;Riptide Laboratory;;Land;;;;T: Add 1 to your mana pool.\ 1U, T: Return a wizard you control to its owner's hand.
+1;Scalding Tarn;;Land;;;;T, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.
+1;Scrying Sheets;;Snow Land;;;;T: Add (S) to your mana pool.\ 1(S), T: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand.
+26;Snow-Covered Island;;Basic Snow Land;Island;;;
+1;Final Iteration;;Creature;Eldrazi Insect;6;5;Flying\ Wizards you control get +2/+1 and have flying.\ Whenever you cast an instant or sorcery spell, put a 1/1 blue Human Wizard creature token onto the battlefield.;TRANSFORM;Docent of Perfection
